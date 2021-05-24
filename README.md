@@ -1,3 +1,3 @@
 # image-resizer
 
-A small script I wrote to automate some standard PNG resizing.
+A small script to automate some standard PNG resizing that I used to do to fit on a blog.
